@@ -1,6 +1,6 @@
 # AplikasiCRUD-Kendaraan-JAVA
 
-AplikasiCRUD-Kendaraan-JAVA adalah aplikasi manajemen kendaraan yang memungkinkan pengguna untuk melakukan operasi Create, Read, Update, dan Delete (CRUD) pada data kendaraan. Aplikasi ini dibangun menggunakan bahasa pemrograman Java.
+AplikasiCRUD-Kendaraan-JAVA adalah aplikasi manajemen kendaraan yang memungkinkan pengguna untuk melakukan operasi Create, Read, Update, dan Delete (CRUD) pada data kendaraan. Aplikasi ini cocok digunakan oleh perusahaan rental kendaraan, dealer, atau individu yang ingin mengelola inventaris kendaraan mereka dengan efisien. Aplikasi ini dibangun menggunakan bahasa pemrograman Java.
 
 ## Fitur
 
@@ -17,26 +17,8 @@ Pastikan Anda memiliki perangkat lunak berikut yang terinstal di sistem Anda:
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) 11 atau versi lebih baru
 - [Apache Maven](https://maven.apache.org/download.cgi) (opsional, jika Anda menggunakan Maven untuk manajemen dependensi)
 - [Git](https://git-scm.com/downloads)
-
-AplikasiCRUD-Kendaraan-JAVA/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   └── contoh/
-│   │   │   │       ├── Main.java
-│   │   │   │       ├── controller/
-│   │   │   │       ├── model/
-│   │   │   │       └── view/
-│   │   └── resources/
-│   └── test/
-│       └── java/
-│
-├── pom.xml (jika menggunakan Maven)
-├── README.md
-└── .gitignore
-
+- Swing: Library GUI (Graphical User Interface) untuk membuat antarmuka pengguna yang interaktif dan mudah digunakan.
+- JDBC: Digunakan untuk koneksi dan operasi database.
 
 Dengan README ini, pengguna lain dapat dengan mudah memahami tujuan, fitur, dan cara menggunakan proyek `AplikasiCRUD-Kendaraan-JAVA`. 
 Jangan lupa untuk menyesuaikan detail seperti email kontak dan informasi spesifik lainnya sesuai dengan proyek Anda.
